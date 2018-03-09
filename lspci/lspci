@@ -1,0 +1,3 @@
+#! /bin/bash
+lspci_path=$(dirname $0)
+echo "$(cat $lspci_path"/lspci.txt")"

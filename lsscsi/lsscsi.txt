@@ -1,0 +1,23 @@
+[1:0:121:0]  enclosu AIC 12G  4U24SAS3EOB      0c02  -       
+[1:2:0:0]    disk    LSI      MR9271-8i        3.24  /dev/sda
+[1:2:1:0]    disk    LSI      MR9271-8i        3.24  /dev/sdb
+[1:2:2:0]    disk    LSI      MR9271-8i        3.24  /dev/sdc
+[1:2:3:0]    disk    LSI      MR9271-8i        3.24  /dev/sdd
+[1:2:4:0]    disk    LSI      MR9271-8i        3.24  /dev/sde
+[1:2:5:0]    disk    LSI      MR9271-8i        3.24  /dev/sdf
+[1:2:6:0]    disk    LSI      MR9271-8i        3.24  /dev/sdg
+[1:2:8:0]    disk    LSI      MR9271-8i        3.24  /dev/sdh
+[1:2:9:0]    disk    LSI      MR9271-8i        3.24  /dev/sdi
+[1:2:10:0]   disk    LSI      MR9271-8i        3.24  /dev/sdj
+[1:2:11:0]   disk    LSI      MR9271-8i        3.24  /dev/sdk
+[1:2:12:0]   disk    LSI      MR9271-8i        3.24  /dev/sdl
+[1:2:14:0]   disk    LSI      MR9271-8i        3.24  /dev/sdm
+[1:2:15:0]   disk    LSI      MR9271-8i        3.24  /dev/sdn
+[1:2:16:0]   disk    LSI      MR9271-8i        3.24  /dev/sdo
+[1:2:17:0]   disk    LSI      MR9271-8i        3.24  /dev/sdp
+[1:2:18:0]   disk    LSI      MR9271-8i        3.24  /dev/sdq
+[1:2:19:0]   disk    LSI      MR9271-8i        3.24  /dev/sdr
+[1:2:20:0]   disk    LSI      MR9271-8i        3.24  /dev/sds
+[1:2:21:0]   disk    LSI      MR9271-8i        3.24  /dev/sdt
+[1:2:22:0]   disk    LSI      MR9271-8i        3.24  /dev/sdu
+[1:2:23:0]   disk    LSI      MR9271-8i        3.24  /dev/sdv

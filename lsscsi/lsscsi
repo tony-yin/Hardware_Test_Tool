@@ -1,0 +1,17 @@
+#! /bin/bash
+lsscsi_path=$(dirname $0)
+
+if [ $# -eq 0 ]; then
+    echo "$(cat $lsscsi_path"/lsscsi.txt")"
+fi
+
+while getopts ":l" opt; do
+    case $opt in 
+        l)
+            echo "$(cat $lsscsi_path"/lsscsi_list.txt")"
+            ;;
+        \?)
+            echo "Invalid option: -$OPTARG"
+            ;;
+    esac
+done

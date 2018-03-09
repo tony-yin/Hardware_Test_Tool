@@ -1,0 +1,17 @@
+#! /bin/bash
+
+lsblk_path=$(dirname $0)
+if [ $# -eq 0 ]; then
+    echo "$(cat $lsblk_path"/lsblk.txt")"
+fi
+
+while getopts ":l" opt; do
+    case $opt in 
+        l)
+            echo "$(cat $lsblk_path"/lsblk_list.txt")"
+            ;;
+        \?)
+            echo "Invalid option: -$OPTARG"
+            ;;
+    esac
+done

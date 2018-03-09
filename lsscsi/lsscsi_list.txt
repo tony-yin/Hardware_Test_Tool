@@ -1,0 +1,46 @@
+[1:0:121:0]  enclosu AIC 12G  4U24SAS3EOB      0c02  -       
+  state=running queue_depth=256 scsi_level=6 type=13 device_blocked=0 timeout=90
+[1:2:0:0]    disk    LSI      MR9271-8i        3.24  /dev/sda
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:1:0]    disk    LSI      MR9271-8i        3.24  /dev/sdb
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:2:0]    disk    LSI      MR9271-8i        3.24  /dev/sdc
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:3:0]    disk    LSI      MR9271-8i        3.24  /dev/sdd
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:4:0]    disk    LSI      MR9271-8i        3.24  /dev/sde
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:5:0]    disk    LSI      MR9271-8i        3.24  /dev/sdf
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:6:0]    disk    LSI      MR9271-8i        3.24  /dev/sdg
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:8:0]    disk    LSI      MR9271-8i        3.24  /dev/sdh
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:9:0]    disk    LSI      MR9271-8i        3.24  /dev/sdi
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:10:0]   disk    LSI      MR9271-8i        3.24  /dev/sdj
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:11:0]   disk    LSI      MR9271-8i        3.24  /dev/sdk
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:12:0]   disk    LSI      MR9271-8i        3.24  /dev/sdl
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:14:0]   disk    LSI      MR9271-8i        3.24  /dev/sdm
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:15:0]   disk    LSI      MR9271-8i        3.24  /dev/sdn
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:16:0]   disk    LSI      MR9271-8i        3.24  /dev/sdo
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:17:0]   disk    LSI      MR9271-8i        3.24  /dev/sdp
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:18:0]   disk    LSI      MR9271-8i        3.24  /dev/sdq
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:19:0]   disk    LSI      MR9271-8i        3.24  /dev/sdr
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:20:0]   disk    LSI      MR9271-8i        3.24  /dev/sds
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:21:0]   disk    LSI      MR9271-8i        3.24  /dev/sdt
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:22:0]   disk    LSI      MR9271-8i        3.24  /dev/sdu
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90
+[1:2:23:0]   disk    LSI      MR9271-8i        3.24  /dev/sdv
+  state=running queue_depth=256 scsi_level=6 type=0 device_blocked=0 timeout=90

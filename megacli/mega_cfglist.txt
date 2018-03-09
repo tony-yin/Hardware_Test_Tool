@@ -1,0 +1,1754 @@
+                                     
+==============================================================================
+Adapter: 0
+Product Name: LSI MegaRAID SAS 9271-8i
+Memory: 1024MB
+BBU: Absent
+Serial No: SV50450543
+==============================================================================
+Number of DISK GROUPS: 22
+
+DISK GROUP: 0
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x00
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 0 (Target Id: 0)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 3.637 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 128 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 1
+Drive's position: DiskGroup: 0, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 144
+WWN: 50014ee2b68c05ff
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 3.638 TB [0x1d1c0beb0 Sectors]
+Non Coerced Size: 3.637 TB [0x1d1b0beb0 Sectors]
+Coerced Size: 3.637 TB [0x1d1b00000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: 1K03
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b21400909a3
+Connected Port Number: 0(path0) 
+Inquiry Data:      WD-WCC136KA233LWDC WD4000FYYZ-03UL1B2                  01.01K03
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :30C (86.00 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 1
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x01
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 1 (Target Id: 1)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 372.093 GB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Enabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 2
+Drive's position: DiskGroup: 1, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 126
+WWN: 50015178f3646ffc
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 372.611 GB [0x2e9390b0 Sectors]
+Non Coerced Size: 372.111 GB [0x2e8390b0 Sectors]
+Coerced Size: 372.093 GB [0x2e830000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: 0265
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009099d
+Connected Port Number: 0(path0) 
+Inquiry Data: BTTV3245073A400HGN  INTEL SSDSC2BA400G3                     5DV10265
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Solid State Device
+Drive:  Not Certified
+Drive Temperature : N/A
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 2
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x02
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 2 (Target Id: 2)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 3
+Drive's position: DiskGroup: 2, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 128
+WWN: 5000c5007908a859
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090992
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z57WE7ST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :32C (89.60 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 3
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x03
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 3 (Target Id: 3)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 4
+Drive's position: DiskGroup: 3, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 124
+WWN: 5000c500751eb3f8
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009098c
+Connected Port Number: 0(path0) 
+Inquiry Data:             S1Z0BAZ8ST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :31C (87.80 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 4
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x04
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 4 (Target Id: 4)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 5
+Drive's position: DiskGroup: 4, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 143
+WWN: 5000c500799f0e0a
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b21400909a2
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z679YKST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :33C (91.40 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 5
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x05
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 5 (Target Id: 5)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 6
+Drive's position: DiskGroup: 5, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 141
+WWN: 5000c5006779819b
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009099c
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z4QHCYST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :33C (91.40 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 6
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x06
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 6 (Target Id: 6)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 7
+Drive's position: DiskGroup: 6, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 127
+WWN: 5000c500790b9cdf
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090993
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z57YSGST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :34C (93.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 7
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x07
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 8 (Target Id: 8)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 8
+Drive's position: DiskGroup: 7, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 129
+WWN: 5000c50078fce8ac
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009098d
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z56BW1ST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :33C (91.40 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 8
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x08
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 9 (Target Id: 9)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 9
+Drive's position: DiskGroup: 8, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 123
+WWN: 5000c500749e1125
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN03
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b21400909a1
+Connected Port Number: 0(path0) 
+Inquiry Data:             S1Y02XK8ST3000NM0033-9ZM178                     SN03    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :33C (91.40 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 9
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x09
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 10 (Target Id: 10)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 11
+Drive's position: DiskGroup: 9, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 134
+WWN: 5000c5007903f6c7
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090994
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z57MKGST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :34C (93.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 10
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x0a
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 11 (Target Id: 11)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 12
+Drive's position: DiskGroup: 10, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 125
+WWN: 5000c50078c5b4c7
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009098e
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z4VHTQST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :34C (93.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 11
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x0b
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 12 (Target Id: 12)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 13
+Drive's position: DiskGroup: 11, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 139
+WWN: 5000c50066ad6790
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b21400909a0
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Y1PJZQST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :33C (91.40 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 12
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x0c
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 14 (Target Id: 14)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 15
+Drive's position: DiskGroup: 12, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 133
+WWN: 5000c500790ba68c
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090995
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z57YSHST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :34C (93.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 13
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x0d
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 15 (Target Id: 15)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 16
+Drive's position: DiskGroup: 13, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 122
+WWN: 5000c5007907aa26
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009098f
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Y21W59ST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :33C (91.40 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 14
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x0e
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 16 (Target Id: 16)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 17
+Drive's position: DiskGroup: 14, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 138
+WWN: 5000c500790bdc87
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009099f
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z559TSST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :35C (95.00 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 15
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x0f
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 17 (Target Id: 17)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 18
+Drive's position: DiskGroup: 15, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 142
+WWN: 5000c50078eb3c67
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090999
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z50QVXST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :34C (93.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 16
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x10
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 18 (Target Id: 18)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 19
+Drive's position: DiskGroup: 16, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 136
+WWN: 5000c50078ea46cc
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090996
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z50YH1ST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :35C (95.00 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 17
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x11
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 19 (Target Id: 19)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 20
+Drive's position: DiskGroup: 17, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 132
+WWN: 5000c50074f14e03
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090990
+Connected Port Number: 0(path0) 
+Inquiry Data:             S1Z08S71ST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :32C (89.60 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 18
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x12
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 20 (Target Id: 20)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 21
+Drive's position: DiskGroup: 18, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 130
+WWN: 5000c500790be090
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b214009099e
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z564ANST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :34C (93.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 19
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x13
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 21 (Target Id: 21)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, No Write Cache if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 22
+Drive's position: DiskGroup: 19, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 137
+WWN: 5000c500749bfadb
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN03
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090998
+Connected Port Number: 0(path0) 
+Inquiry Data:             S1Z03WMXST3000NM0033-9ZM178                     SN03    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :34C (93.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 20
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x14
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 22 (Target Id: 22)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 2.728 TB
+Sector Size         : 512
+Is VD emulated      : No
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Disabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 23
+Drive's position: DiskGroup: 20, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 135
+WWN: 5000c50078da0d65
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SATA
+
+Raw Size: 2.728 TB [0x15d50a3b0 Sectors]
+Non Coerced Size: 2.728 TB [0x15d40a3b0 Sectors]
+Coerced Size: 2.728 TB [0x15d400000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  512
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: SN04
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x50015b2140090997
+Connected Port Number: 0(path0) 
+Inquiry Data:             Z1Z4Z6L6ST3000NM0033-9ZM178                     SN04    
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: 6.0Gb/s 
+Link Speed: 6.0Gb/s 
+Media Type: Hard Disk Device
+Drive:  Not Certified
+Drive Temperature :33C (91.40 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: 6.0Gb/s 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+DISK GROUP: 21
+Number of Spans: 1
+SPAN: 0
+Span Reference: 0x15
+Number of PDs: 1
+Number of VDs: 1
+Number of dedicated Hotspares: 0
+Virtual Drive Information:
+Virtual Drive: 23 (Target Id: 23)
+Name                :
+RAID Level          : Primary-0, Secondary-0, RAID Level Qualifier-0
+Size                : 744.687 GB
+Sector Size         : 512
+Is VD emulated      : Yes
+Parity Size         : 0
+State               : Optimal
+Strip Size          : 256 KB
+Number Of Drives    : 1
+Span Depth          : 1
+Default Cache Policy: WriteThrough, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Current Cache Policy: WriteThrough, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Default Access Policy: Read/Write
+Current Access Policy: Read/Write
+Disk Cache Policy   : Enabled
+Encryption Type     : None
+PI type: No PI
+
+Is VD Cached: No
+Physical Disk Information:
+Physical Disk: 0
+Enclosure Device ID: 121
+Slot Number: 24
+Drive's position: DiskGroup: 21, Span: 0, Arm: 0
+Enclosure position: 1
+Device Id: 54
+WWN: 5000CCA04FB4C7AF
+Sequence Number: 2
+Media Error Count: 0
+Other Error Count: 0
+Predictive Failure Count: 0
+Last Predictive Failure Event Seq Number: 0
+PD Type: SAS
+
+Raw Size: 745.211 GB [0x5d26ceb0 Sectors]
+Non Coerced Size: 744.711 GB [0x5d16ceb0 Sectors]
+Coerced Size: 744.687 GB [0x5d160000 Sectors]
+Sector Size:  512
+Logical Sector Size:  512
+Physical Sector Size:  4096
+Firmware state: Online, Spun Up
+Commissioned Spare : No
+Emergency Spare : No
+Device Firmware Level: A300
+Shield Counter: 0
+Successful diagnostics completion on :  N/A
+SAS Address(0): 0x5000cca04fb4c7ad
+SAS Address(1): 0x0
+Connected Port Number: 0(path0) 
+Inquiry Data: HGST    HUSMM1680ASS200 A3000RY6E34A            
+FDE Capable: Not Capable
+FDE Enable: Disable
+Secured: Unsecured
+Locked: Unlocked
+Needs EKM Attention: No
+Foreign State: None 
+Device Speed: Unknown 
+Link Speed: Unknown 
+Media Type: Solid State Device
+Drive:  Not Certified
+Drive Temperature :29C (84.20 F)
+PI Eligibility:  No 
+Drive is formatted for PI information:  No
+PI: No PI
+Port-0 :
+Port status: Active
+Port's Linkspeed: Unknown 
+Port-1 :
+Port status: Active
+Port's Linkspeed: Unknown 
+Drive has flagged a S.M.A.R.T alert : No
+
+
+
+
+Exit Code: 0x00

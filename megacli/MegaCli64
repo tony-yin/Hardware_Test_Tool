@@ -1,0 +1,11 @@
+#! /bin/bash
+megacli_path=$(dirname $0)
+type=$1
+pdlist=$(cat $megacli_path"/mega_pdlist.txt")
+cfglist=$(cat $megacli_path"/mega_cfglist.txt")
+
+if [[ $type == "pdlist" ]];then
+    echo "${pdlist}";
+elif [[ $type == "cfgdsply" ]];then
+    echo "${cfglist}";
+fi
