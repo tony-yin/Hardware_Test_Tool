@@ -28,4 +28,4 @@ cd Hardware_Test_Tool
 
 觉得还不错的话，帮忙点个赞呗(#^.^#)
 
-[1]: http://www.tony-yin.top/2018/03/09/Hardware-Test-Tool/#footer
+[1]: http://www.tony-yin.top/2018/03/09/Hardware-Test-Tool/
